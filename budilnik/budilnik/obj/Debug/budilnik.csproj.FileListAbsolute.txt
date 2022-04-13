@@ -1,0 +1,32 @@
+c:\users\юлия\documents\visual studio 2013\Projects\budilnik\budilnik\bin\Debug\budilnik.exe.config
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\budilnik\budilnik\bin\Debug\budilnik.exe
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\budilnik\budilnik\bin\Debug\budilnik.pdb
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\budilnik\budilnik\obj\Debug\budilnik.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\budilnik\budilnik\obj\Debug\budilnik.Form1.resources
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\budilnik\budilnik\obj\Debug\budilnik.Properties.Resources.resources
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\budilnik\budilnik\obj\Debug\budilnik.csproj.GenerateResource.Cache
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\budilnik\budilnik\obj\Debug\budilnik.exe
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\budilnik\budilnik\obj\Debug\budilnik.pdb
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\bin\Debug\budilnik.exe.config
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\bin\Debug\budilnik.exe
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\bin\Debug\budilnik.pdb
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\obj\Debug\budilnik.csprojAssemblyReference.cache
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\obj\Debug\budilnik.Form1.resources
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\obj\Debug\budilnik.Properties.Resources.resources
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\obj\Debug\budilnik.csproj.GenerateResource.cache
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\obj\Debug\budilnik.csproj.CoreCompileInputs.cache
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\obj\Debug\budilnik.exe
+C:\Users\asafj\OneDrive\Рабочий стол\Новая практика\budilnik\budilnik\obj\Debug\budilnik.pdb
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\bin\Debug\budilnik.exe.config
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\bin\Debug\budilnik.exe
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\bin\Debug\budilnik.pdb
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\obj\Debug\budilnik.csproj.AssemblyReference.cache
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\obj\Debug\budilnik.Form1.resources
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\obj\Debug\budilnik.Properties.Resources.resources
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\obj\Debug\budilnik.csproj.GenerateResource.cache
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\obj\Debug\budilnik.csproj.CoreCompileInputs.cache
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\obj\Debug\budilnik.exe
+F:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\obj\Debug\budilnik.pdb
+E:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\bin\Debug\budilnik.exe.config
+E:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\obj\Debug\budilnik.exe
+E:\ПРАКТИКА АНДРИАНОВ\Новая практика\Новая практика\budilnik\budilnik\obj\Debug\budilnik.pdb
